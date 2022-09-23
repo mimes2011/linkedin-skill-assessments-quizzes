@@ -693,7 +693,19 @@ If your Word document contains no Heading 1 or Heading 2 styles, PowerPoint will
 
 #### Q90. Which type of shape allows you to add text that can be moved around, formatted with styles and effects, or grouped with other objects?
 
-- [ ] Screenshot
-- [x] Textbox
-- [ ] Icon
-- [ ] 3D model
+- [ ] Screenshot.
+- [x] Textbox.
+- [ ] Icon.
+- [ ] 3D model.
+
+#### Q92. which view allows you to select individual objects on a slide?
+- [ ] slide sorter view.
+- [ ] design view.
+- [ ] normal view.
+- [x] slide show View.
+
+#### Q93. your presentation has a slide on which the text appears a scrambled what happened?
+- [x] the text direction has been changed to stacked .
+- [ ] the text  direction has been change to 360 degrees.
+- [ ] the text direction has been changed to vertical .
+- [ ] the text direction has been a change it to 90 degrees.
