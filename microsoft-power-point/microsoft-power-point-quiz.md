@@ -697,3 +697,10 @@ If your Word document contains no Heading 1 or Heading 2 styles, PowerPoint will
 - [x] Textbox
 - [ ] Icon
 - [ ] 3D model
+
+#### Q91. mini PowerPoint slide backgrounds use a color effect that is gradually faded from top to bottom what is this Effect called?
+- [ ] texture fill
+- [x] gradient fill
+- [ ] pattern fill
+- [ ] solid fill
+
