@@ -679,3 +679,17 @@ C. Some people have already accepted, so you must cancel this meeting and create
 #### Q93. What happens when you try to add new account on Outlook?
 
 - [x] transmission
+
+#### Q93. what happens when you add an additional email account in Outlook?
+
+- [ ] Outlook prompts you to remove an existing account first.
+- [ ] Outlook stops you because you can use only one email account at a time.
+- [x] Outlook prompts you for the transmission protocol you would like to use. 
+- [ ] Outlook automatically applies the default configurations.
+
+#### Q94. when you back up or export your contacts directly from Outlook without using additional applications what type of file Will you export? 
+
+- [ ] DOCX (Windows) or DOCM (Mac)
+- [ ] TXT.
+- [ ] XLSX (Windows) or XLSM (Mac)
+- [x] CSV (Windows) or LOM (Mac)
