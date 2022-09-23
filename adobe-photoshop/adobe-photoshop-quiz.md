@@ -678,4 +678,10 @@
 - [ ] B
 - [x] B and C
 
+#### Q90. how do you nondestructively use the Clone stamp tool on a rasterized layer?
+ 
+- [ ] convert it to a Smart object. then use the Clone stamp tool.
+- [x] create a new layer above it and set the clone stamp tool's sample setting to current and below.
+- [ ] add a photo filter adjustment layer above the layer. then use the Clone stamp tool.
+- [ ] with the layer selected, set the clone stamp tool's sample setting to current & below.
 
